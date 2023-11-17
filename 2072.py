@@ -1,3 +1,6 @@
+import sys;
+sys.stdin = open('input.txt', 'r')
+
 #테스트 케이스의 개수 입력받는 변수 T
 T = int(input())
 
